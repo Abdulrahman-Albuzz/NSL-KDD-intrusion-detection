@@ -73,7 +73,7 @@ Final test performance with the tuned threshold: **attack recall 0.949, precisio
 ## How to run it
 
 1. Download NSL-KDD (for example from the Kaggle dataset `hassan06/nslkdd`) and unzip it.
-2. Open the notebook in Google Colab (`YOUR_NOTEBOOK_NAME.ipynb`).
+2. Open the notebook in Google Colab (`NSL_KDD.ipynb`).
 3. Upload `KDDTrain+_20Percent.txt`, `KDDTest+.txt` and `KDDTrain+.txt` when the notebook asks for them.
 4. Run the cells in order.
 
